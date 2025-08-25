@@ -3,6 +3,8 @@
 
 This Fusion 360 script generates a logarithmic spiral using parametric equations derived from its polar form.
 
+![alt text](image.png)
+
 ### Mathematical Form
 
 The logarithmic spiral is defined in polar coordinates as:
