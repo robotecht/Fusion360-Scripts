@@ -2,6 +2,9 @@
 
 This guide explains how to run a Python script in Autodesk Fusion 360 using the built-in script editor.
 
+## Repo Summary
+1. **LogarthmicSpiral** - Generates a 2D logarithmic spiral in Fusion 360 using the polar equation
+
 ## Prerequisites
 
 - Autodesk Fusion 360 installed
