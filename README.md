@@ -4,6 +4,7 @@ This guide explains how to run a Python script in Autodesk Fusion 360 using the 
 
 ## Repo Summary
 1. **LogarthmicSpiral** - Generates a 2D logarithmic spiral in Fusion 360 using the polar equation
+1. **VoronoiPattern** - Generates closed-loop Voronoi regions in Fusion 360 using a grid-based approximation method
 
 ## Prerequisites
 
